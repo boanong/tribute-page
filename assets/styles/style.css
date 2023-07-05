@@ -1,0 +1,62 @@
+body {
+  font-family: sans-serif;
+  padding-top: 10px;
+}
+
+.bodyback {
+  background-color: #fff;
+  border-radius: 5px;
+}
+
+.top {
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 19px;
+}
+
+.heading {
+  font-size: 40px;
+  font-weight: bold;
+  padding-bottom: 22px;
+}
+
+.photogrp {
+  text-align: center;
+  background-color: #fff;
+  margin: 10px;
+  border-radius: 3px;
+}
+
+.photogrp img {
+  width: 80vw;
+  max-width: 65rem;
+}
+
+.h2 {
+  text-align: center;
+  font-weight: bold;
+  font-size: large;
+  padding: 35px 0;
+}
+
+.list {
+  padding-bottom: 25px;
+}
+
+.time-line {
+  max-width: fit-content;
+  margin: auto;
+}
+
+.testimonial {
+  font-style: italic;
+  margin: auto;
+  width: fit-content;
+}
+
+.wiki-entry {
+  text-align: center;
+  font-weight: bold;
+  font-size: 19px;
+  padding-top: 40px;
+}
