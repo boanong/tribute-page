@@ -1,7 +1,7 @@
 # TRIBUTE PAGE 
 
 ## Project Review
-![home page](assets/images/cash%20register.PNG)
+![home page](assets/images/overview.PNG)
 
 ## About
 This project is a test on our HTML and CSS knowledge so far.
