@@ -1,7 +1,7 @@
 # TRIBUTE PAGE 
 
 ## Project Review
-![home page](assets/images/overview.PNG)
+![home page](assets/images/tributepic.PNG)
 
 ## About
 This project is a test on our HTML and CSS knowledge so far.
