@@ -1,4 +1,4 @@
-# TRIBUTE PAGE 
+# TRIBUTE PAGE
 
 ## Project Review
 ![home page](assets/images/tributepic.PNG)
@@ -12,7 +12,7 @@ This page is built with
 * CSS
 
 ### PREREQUISITES
-* A browser 
+* A browser
 * Internet connection
 * Familiarity with GitHub
 
@@ -41,4 +41,4 @@ Feel free to check the [issues page](https://github.com/boanong/tribute-page/iss
 - GitHub: [@boanong](https://github.com/boanong)
 
 ## License
-- A REBASE Academy licenced project 
+- A REBASE Academy licenced project
